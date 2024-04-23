@@ -1,8 +1,15 @@
-# React + Vite
+Hackathon Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Recommendation webapp which suggests suitable location to industries & construction companies for installation of  there industry  infrastructure based on  Environmental factors.
 
-Currently, two official plugins are available:
+Introduction to Problem statement :- 
+1) Environmental impact assessment
+2) Data Collection 
+3) Data Analysis
+4) Data Visualisation
+5) Eco-concious Decisions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Objective :-
+* To develop a tool which suggests suitable location to industries based on Data Analysis of environmental factors.
+* Also suggest offsets which can recover environmental losses caused by  these industries.
+  
